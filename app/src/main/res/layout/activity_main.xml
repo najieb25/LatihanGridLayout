@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:orientation="horizontal"
+    tools:context=".GridLayoutActivity">
+
+    <TextView
+        android:id="@+id/textA"
+        android:text="A"
+        android:textSize="40dp"
+        android:padding="20dp" />
+    <TextView
+        android:id="@+id/textB"
+        android:text="B"
+        android:textSize="40dp"
+        android:padding="20dp" />
+    <TextView
+        android:id="@+id/textC"
+        android:text="C"
+        android:textSize="40dp"
+        android:padding="20dp" />
+    <TextView
+        android:id="@+id/textD"
+        android:text="D"
+        android:textSize="40dp"
+        android:padding="20dp" />
+    <TextView
+        android:id="@+id/textE"
+        android:text="E"
+        android:textSize="40dp"
+        android:padding="20dp" />
+    <TextView
+        android:id="@+id/textF"
+        android:text="F"
+        android:textSize="40dp"
+        android:padding="20dp" />
+    <TextView
+        android:id="@+id/textG"
+        android:text="G"
+        android:textSize="40dp"
+        android:padding="20dp" />
+    <TextView
+        android:id="@+id/textH"
+        android:text="H"
+        android:textSize="40dp"
+        android:padding="20dp" />
+    <TextView
+        android:id="@+id/textI"
+        android:text="I"
+        android:textSize="40dp"
+        android:padding="20dp" />
+    <TextView
+        android:id="@+id/textJ"
+        android:text="J"
+        android:textSize="40dp"
+        android:padding="20dp" />
+    <TextView
+        android:id="@+id/textK"
+        android:text="K"
+        android:textSize="40dp"
+        android:padding="20dp" />
+    <TextView
+        android:id="@+id/textL"
+        android:text="L"
+        android:textSize="40dp"
+        android:padding="20dp" />
+
+</GridLayout>
